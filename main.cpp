@@ -10,7 +10,25 @@ enum class Compass {N, S, W, E};
 // Write your code here
 class GPS {
 
+
+private:
+{
+   GPS c;
+   c.double getLatitude() [0.0, 90.0];
+   c.Compass getLatitudeDirection() == Compass::N;
+   c.double getLongitude() [0.0, 180.0];
+   c.Compass getLongitudeDirection() == Compass::W;
 };
+public: {
+  GPS c;
+   c.double getLatitude() {0.0};
+   c.Compass getLatitudedirection() { Compass::N };
+   c.double getLongitude() {0.0};
+   c.Compass getLatitude() { Compass::W };
+
+{
+};
+     
 
 //------------------------------
 //   DO NOT MODIFY TEST CASES
